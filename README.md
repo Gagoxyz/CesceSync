@@ -217,6 +217,6 @@ Proyecto interno de uso corporativo.
 
 ---
 
-# 🙌 Autor
+# 📝 Autor
 **David Gago**  
 Desarrollador .NET & Integraciones
